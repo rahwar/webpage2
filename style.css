@@ -1,0 +1,14 @@
+.name:hover{
+    color: #D32702;
+}
+.name{
+    color:black;
+}
+.btn{ 
+    background-color: white;
+  color: black;
+  border: 2px solid #4CAF50; 
+}
+.btn:hover{
+    color: black;
+}
